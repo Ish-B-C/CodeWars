@@ -7,3 +7,5 @@ for (let i = 0; i < arr.length; i++){
   }
   return sum;
 }
+console.log(positiveSum([1,2,-3]));
+
